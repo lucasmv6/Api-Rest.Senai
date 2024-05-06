@@ -1,0 +1,6 @@
+com\senai\apirest\servicos\IncluirVendasProduto.class
+com\senai\apirest\ApirestApplicationTests.class
+com\senai\apirest\servicos\VendaSevicoTest.class
+com\senai\apirest\servicos\VendasProdutoServicoTest.class
+com\senai\apirest\servicos\ClienteServicoTest.class
+com\senai\apirest\servicos\ProdutoServicoTest.class
